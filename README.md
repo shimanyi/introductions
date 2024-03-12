@@ -1,2 +1,2 @@
-# essentials-of-git-in-coding
+# Essentials of Git in Programming
 Introduction and Application of Git in Industry
