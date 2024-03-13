@@ -2,3 +2,4 @@
 | --- |------------------------|------------------------|
 | 1.  | Shimanyi Valentino     | Microsoft              | 
 | 2.  | Rennee Amondi          | Zetech University      |
+| 3.  | Morris Kaburu          | Dekut                       |
