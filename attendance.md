@@ -1,4 +1,4 @@
 | No. | Name                   | Institution            |
 | --- |------------------------|------------------------|
 | 1.  | Shimanyi Valentino     | Microsoft              | 
-| 2.  | Kinyua Gikunda         | DeKUT                  |
+| 3.  | Kinyua Gikunda         | DeKUT                  |
