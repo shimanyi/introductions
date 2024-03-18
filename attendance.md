@@ -1,4 +1,7 @@
 | No. | Name                   | Institution            |
 | --- |------------------------|------------------------|
 | 1.  | Shimanyi Valentino     | Microsoft              | 
-| 3.  | Kinyua Gikunda         | DeKUT                  |
+| 2.  | Kinyua Gikunda         | DeKUT                  |
+| 3.  | Rennee Amondi          | Zetech University      |
+| 4.  | Morris Kaburu          | Dekut                  |
+| 5.  | Nicholas Njiru         |MMU                     |
