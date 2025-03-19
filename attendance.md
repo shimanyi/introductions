@@ -9,7 +9,7 @@
   7.    Elizabeth Mutua          Dekut
 | 8.  | David Kibaara          | MUST                   |
 | 9.  | Shimanyi Valentino     | MS                     |
-| 10.   | Veronica Mumbi | Zetech University |
+| 10. | Veronica Mumbi         | Zetech University    |
 | 11   |   Timothy  sawe        | Kabarak
 | 12.  | David Kibaara          | MUST                   |
 | 13.  | Shimanyi Valentino     | MS                     |
