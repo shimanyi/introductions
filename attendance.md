@@ -6,13 +6,6 @@
 | 4.  | Morris Kaburu          | Dekut                  |
 | 5.  | Nicholas Njiru         | MMU                    |
 | 6.  | John Wainaina          | JKUAT                  |
-<<<<<<< HEAD
-<<<<<<< HEAD
-| 7.  | Zainabu Muti           | Strathmore University  |
-=======
-| 7.  | David Kibaara          | MUST                   |
->>>>>>> main
-=======
 | 7.  | David Kibaara          | MUST                   |
 | 8.  | Shimanyi Valentino     | MS                     |
 | 9.   | Veronica Mumbi | Zetech University |
@@ -20,4 +13,4 @@
 | 8.  | David Kibaara          | MUST                   |
 | 9.  | Shimanyi Valentino     | MS                     |
 | 12.  | Anthony Njina	         | MUST			              |
->>>>>>> main
+| 16  | Zainabu Muti           | Strathmore University  |
