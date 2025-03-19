@@ -1,4 +1,4 @@
-| No. | Name                   | Institution            |
+| No. | Name    | Institution          |
 | --- |------------------------|------------------------|
 | 1.  | Shimanyi Valentino     | Microsoft              | 
 | 2.  | Kinyua Gikunda         | DeKUT                  |
@@ -9,6 +9,8 @@
 | 7.  | David Kibaara          | MUST                   |
 | 8.  | Shimanyi Valentino     | MS                     |
 | 9.  | Veronica Mumbi         | Zetech University      |
-| 7   |   Timothy  sawe        | Kabarak
-| 8.  | David Kibaara          | MUST                   |
-| 9.  | Shimanyi Valentino     | MS                     |
+| 11   |   Timothy  sawe       | Kabarak                |
+| 12.  | David Kibaara         | MUST                   |
+| 13.  | Shimanyi Valentino    | MS                     |
+| 14.  | Anthony Njina	       | MUST			              |
+| 15.  | Zainabu Muti          | Strathmore University  |
