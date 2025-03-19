@@ -7,3 +7,5 @@
 | 5.  | Nicholas Njiru         | MMU                    |
 | 6.  | John Wainaina          | JKUAT                  |
 | 7.  | OCHIENG BOSTONE        | UoN
+| 7.  | David Kibaara          | MUST                   |
+| 8.  | Shimanyi Valentino     | MS                     |
