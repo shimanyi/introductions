@@ -7,3 +7,5 @@
 | 5.  | Nicholas Njiru         | MMU                    |
 | 6.  | John Wainaina          | JKUAT  
    7. |  Ruth Oginga            |Kabarak University     |
+| 8.  | John Wainaina          | JKUAT                  |
+| 9.  | David Kibaara          | MUST                   |
