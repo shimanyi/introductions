@@ -7,4 +7,5 @@
 | 5.  | Nicholas Njiru         | MMU                    |
 | 6.  | John Wainaina          | JKUAT                  |
 | 7.  | David Kibaara          | MUST                   |
-|8.| Veronica Mumbi | Zetech University |
+| 8.  | Shimanyi Valentino     | MS                     |
+| 9.   | Veronica Mumbi | Zetech University |
