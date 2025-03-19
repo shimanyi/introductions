@@ -15,3 +15,4 @@
 | 13.  | Shimanyi Valentino     | MS                     |
 | 14.  | Anthony Njina	         | MUST			              |
 | 15.  | Zainabu Muti           | Strathmore University  |
+| 16.  | Alexander Njuguna      | KCA University         |
