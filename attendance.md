@@ -6,4 +6,4 @@
 | 4.  | Morris Kaburu          | Dekut                  |
 | 5.  | Nicholas Njiru         | MMU                    |
 | 6.  | John Wainaina          | JKUAT                  |
-7.	Veronicah Mumbi		Zetech University
+| 7.  |  Veronicah Mumbi	   |Zetech University       |
