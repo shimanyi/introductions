@@ -10,3 +10,5 @@
 | 8.  | John Wainaina          | JKUAT                  |
 | 9.  | David Kibaara          | MUST                   |
 | 6.  | John Wainaina          | JKUAT                  |
+| 6.  | John Wainaina          | JKUAT                  |
+| 7.  | Zainabu Muti           | Strathmore University  |
